@@ -8,7 +8,7 @@ If you're going to use my free projects please consider sponsoring my work. Than
 - [Pateron](https://patreon.com/dbelectronics)
 
 ## Changelog
-- v1.0
+- [v1.0](https://github.com/db-electronics/petit-swd-kicad/releases/tag/v1.0)
   - initial release
 
 # Copyright and Disclaimer
